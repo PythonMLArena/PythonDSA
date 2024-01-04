@@ -15,3 +15,11 @@ answer=Sum_of_n - total
 
 
 print(answer)
+
+
+# XOR (Bit Manipulation)
+# Same Number 2 xor 2 = 0
+# 0 XOR (any number) = any number
+
+xor_all = 0
+xor_current = 0
