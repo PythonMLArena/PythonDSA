@@ -20,7 +20,7 @@ N=3
 # Backtracking
 def sumN(N):
     if N==1:
-        return N
+        return 1
     sum1=N+ sumN(N-1)
     return sum1
     
